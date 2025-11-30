@@ -1,9 +1,9 @@
 # 리눅스 명령어 정리
 ## 목차
-- [top](#top)
-- [ps](#ps)
-- [jobs](#jobs)
-- [kill](#kill)
+1. [top](#top)
+2. [ps](#ps)
+3. [jobs](#jobs)
+4. [kill](#kill)
 
 ---
 
