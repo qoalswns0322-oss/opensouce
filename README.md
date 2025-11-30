@@ -37,6 +37,10 @@
 | M   | 메모리 사용량 기준 정렬 |
 | P   | CPU 사용량 기준 정렬 |
 
+- **사진**
+
+<img width="571" height="366" alt="top 명령어" src="https://github.com/user-attachments/assets/f431f122-9a09-4736-9fe6-87b9a67d72db" />
+
 ---
 
 ## ps
@@ -59,6 +63,10 @@
 | -e | 모든 프로세스               |
 | -f | 풀 포맷 (UID, PPID 등 표시) |
 
+- **사진**
+
+<img width="569" height="372" alt="ps 명령어" src="https://github.com/user-attachments/assets/8b5b6ded-f0d0-415b-899d-756fc86d60bd" />
+
 ---
 
 ## jobs
@@ -78,6 +86,10 @@
 | `&`     | 백그라운드 실행         |
 | `fg %1` | 1번 작업을 포그라운드로    |
 | `bg %2` | 2번 작업을 백그라운드로 실행 |
+
+- **사진**
+
+  <img width="569" height="372" alt="jobs  명령어" src="https://github.com/user-attachments/assets/5982d2e6-e2b7-4cf4-9370-433495893ad7" />
 
 ---
 
@@ -101,6 +113,10 @@
 | 9  | SIGKILL | 강제 종료         |
 | 15 | SIGTERM | 정상 종료 요청(기본값) |
 | 1  | SIGHUP  | 설정 재로딩        |
+
+- **사진**
+  
+<img width="567" height="371" alt="kill 명렁어" src="https://github.com/user-attachments/assets/8a4a24f2-a13a-47d8-9aa6-703aebd3c19b" />
 
 ---
 
